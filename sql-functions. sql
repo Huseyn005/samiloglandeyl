@@ -1,3 +1,6 @@
+-- ALL MYSQL FUNCTIONS AND HOW TO USE THEM
+
+
 select date_format(date_added, '%Y-%M-%D') as date1,
 	date_format(date_added, '%y-%m-%d') as date2,
 	date_format(date_added, '%w') as date3,
