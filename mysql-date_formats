@@ -1,3 +1,7 @@
+-- FOR GENERAL USE LISTED ALL MYSQL DATE FORMATS
+
+
+
 use code_train;
 describe superstore;
 select * from superstore;
